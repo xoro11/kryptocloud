@@ -1,2 +1,2 @@
 <hr>
-    <p class="text-center">Copyright Gaurav - All Rights Reserved</p>
+    <p class="text-center">Copyright Gaurav & Bikrant - All Rights Reserved</p>
